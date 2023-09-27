@@ -1,0 +1,11 @@
+name: "DomRu"
+description: "DomRU Dev Video Addon"
+version: "0.0.1"
+slug: "domru_homeassistant_panel"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
